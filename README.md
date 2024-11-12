@@ -1,5 +1,5 @@
 # Binary-Reverse-Papers
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/zjukg/KG-LLM-Papers) 
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/CSecurityZhongYuan/Binary-Reverse-Papers) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)]([](https://github.com/CSecurityZhongYuan/Binary-Reverse-Papers/blob/master/LICENSE))
 ![](https://img.shields.io/github/last-commit/CSecurityZhongYuan/Binary-Reverse-Papers?color=green) 
 ![](https://img.shields.io/badge/PRs-Welcome-red) 
