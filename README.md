@@ -34,5 +34,22 @@
 
 
 
+
+
+## Contribution
+
+### 👥 Contributors
+
+<a href="https://github.com/CSecurityZhongYuan/Binary-Reverse-Papers/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=CSecurityZhongYuan/Binary-Reverse-Papers" />
+</a>
+
+
+
+
+
 ### Resources and Benchmarking
 
+
+
+![Star History Chart](https://api.star-history.com/svg?repos=CSecurityZhongYuan/Binary-Reverse-Papers&type=Date)
